@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: rgb(224, 146, 176);
+    height: 100px;
+    width: 100%;
+}
+
+.header h1{
+    padding-top: 10px       ;
+    text-align: center;
+    font-family: cinzel;
+}
+
+.header p{
+    text-align: center;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+}
+
+.mid{
+    margin-top: 90px;
+    margin-left: 40px;
+}
+
+.mid h2{
+    font-family: cinzel;
+}
+
+.mid p{
+    font-weight: 600;
+    padding-top: 7px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.border{
+    border-bottom: 2px solid grey;
+    margin-top: 40px;
+    margin-right: 70px;
+}
+
+.menu h3{
+    font-family: cinzel;
+    font-size: 22px;
+    margin-top: 30px;
+}
+.footer h1{
+    text-align: center;
+    margin-top: 50px;
+    font-family: cinzel;
+}
+.footer p{
+    font-size: 18px;
+    font-family: "Montserrat", sans-serif;
+    text-align: center; 
+}
+
+.email h4{
+    text-align: center;
+    padding-top: 10px;
+    color: black;
+    font-weight: bold;
+    font-family: cinzel;
+
+}
+
+.email a{
+    font-family: "Montserrat", sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.foot h2{
+    text-align: center;
+    margin-top: 80px;
+    font-family: cinzel;
+    font-size: 20px;
+}
